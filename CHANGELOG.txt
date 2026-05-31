@@ -1,0 +1,7 @@
+# Changelog
+
+## v1.0
+
+- Initial public release
+- Context-aware purchase analysis framework
+- Human-AI iterative decision methodology
